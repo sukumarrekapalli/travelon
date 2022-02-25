@@ -1,3 +1,4 @@
+This is a social media app built on firebase and react
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
